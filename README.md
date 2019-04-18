@@ -46,7 +46,10 @@ func willTransitionPrepareInfo()->(UIImageView?, String?){
     }
 }
 
-```
-![1](https://github.com/AngryOC/custiomImageTransitionAnimation/blob/master/121.jpeg)
-![2](https://github.com/AngryOC/custiomImageTransitionAnimation/blob/master/122.jpeg)
-[效果图](https://github.com/AngryOC/custiomImageTransitionAnimation/blob/master/demo.MOV)
+```  
+
+![1 From ViewController](https://github.com/AngryOC/custiomImageTransitionAnimation/blob/master/121.jpeg)  
+
+![2 to ViewController](https://github.com/AngryOC/custiomImageTransitionAnimation/blob/master/122.jpeg)  
+
+[效果视频](https://github.com/AngryOC/custiomImageTransitionAnimation/blob/master/demo.MOV)
