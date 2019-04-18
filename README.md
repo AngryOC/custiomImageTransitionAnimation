@@ -33,7 +33,6 @@ func willTransitionPrepareInfo()->(UIImageView?, String?){
     }
 ```  
 
-
 ######  图片 下拉放
 ```swift
 //DetailController.swift
@@ -48,3 +47,6 @@ func willTransitionPrepareInfo()->(UIImageView?, String?){
 }
 
 ```
+![1](https://github.com/AngryOC/custiomImageTransitionAnimation/blob/master/121.jpeg)
+![2](https://github.com/AngryOC/custiomImageTransitionAnimation/blob/master/122.jpeg)
+[效果图](https://github.com/AngryOC/custiomImageTransitionAnimation/blob/master/demo.MOV)
